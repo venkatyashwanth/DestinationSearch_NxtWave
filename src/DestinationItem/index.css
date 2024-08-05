@@ -1,0 +1,17 @@
+.destination-item{
+    width: 220px;
+}
+.destination-item .image-wrapper{
+    width: 100%;
+}
+
+.destination-item .image-wrapper img{
+    width: 100%;
+}
+
+.destination-name{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
